@@ -1,3 +1,5 @@
+
+
 # Tracking_customers_shopping
 loaded is the project analysis of customer shopping tracking.
 
@@ -11,23 +13,6 @@ The workflow includes:
 - Building an interactive **Power BI dashboard**
 - Delivering a **report & presentation** with recommendations
 
----customer-shopping-powerbi/
-│
-├── data/tracking_customer_shopping.xlsx
-│ 
-├── sql server/
-│   └──tracking_customer_shop data cleaning.sql
-│
-├── powerbi/
-│   └── Tracking custom_shopping dashboard.pbix
-│
-├── dax/
-│   └── kpi_measures.md
-│
-├── docs/
-│   └── tracking customer shopping docx
-│
-└── README.md
 ---
 
 ##  Dataset - **Dimensions:**
