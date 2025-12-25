@@ -30,7 +30,7 @@ This structure supports analysis of **sales performance, customer behavior, and 
 
 ---
 
-## 🔑 Analysis Delivery
+## Analysis Delivery
 1. **Data Preparation (SQL Server)**
    - Load raw dataset
    - Rename columns (snake_case)
