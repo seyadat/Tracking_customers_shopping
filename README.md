@@ -4,7 +4,7 @@
 loaded is the project analysis of customer shopping tracking.
 
 ##  Overview
-This project analyzes customer shopping behavior for a leading retail company.  
+This project analyzes customer shopping tracking behav for a leading retail company.  
 The goal is to uncover purchase drivers (discounts, reviews, seasons, payment preferences) and provide actionable insights to improve **sales, customer satisfaction, and loyalty**.
 
 The workflow includes:
@@ -20,7 +20,7 @@ The workflow includes:
   - Product & Purchase: Item, Category, Size, Color, Season, Purchase Amount  
   - Tracking & Engagement: Frequency, Previous Purchases, Review Rating, Promo Code, Discount, Shipping, Payment Method  
 
-This structure supports analysis of **sales performance, customer behavior, and marketing effectiveness**.
+This structure supports analysis of **sales performance, customer tracking behavior, and marketing effectiveness**.
 
 ---
 
